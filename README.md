@@ -2,11 +2,11 @@
 Les gâteaux, c'est sacré ! Et avec Cooki-tech, on s'en souvient.
 
 
-#Lancement : 
+## Lancement : 
 
     $   npm start
 
-# Organisation :
+## Organisation :
 
 /public ==> tout ce que le client a acces directement
 
