@@ -1,0 +1,23 @@
+{
+  "name": "cooki-tech",
+  "version": "1.0.0",
+  "description": "Les gâteaux, c'est sacré ! Et avec Cooki-tech, on s'en souvient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raybac38/Cooki-tech.git"
+  },
+  "author": "Hugo Ponsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raybac38/Cooki-tech/issues"
+  },
+  "homepage": "https://github.com/raybac38/Cooki-tech#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
